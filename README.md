@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lori 👋 :sunglasses:
 
 <!--
 **LoriWinston/LoriWinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I would love to meet your pet (preferrable asap)
 -->
+
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I would love to meet your pet (preferrably asap)
