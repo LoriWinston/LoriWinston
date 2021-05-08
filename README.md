@@ -1,5 +1,6 @@
 ![20200831_151733](https://user-images.githubusercontent.com/74270598/117326382-73e0fb00-ae46-11eb-836b-bbe4e91cc764.jpg)
 ### Hi there, I'm Lori 👋 :sunglasses:
+Full Stack Software Engineer
 
 <!--
 **LoriWinston/LoriWinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
